@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- app中金色字体主模式 -->
+    <style name="AppMainTextStyle">
+        <item name="android:textColor">@color/main_tab_text_select</item>
+        <item name="android:textSize">@dimen/app_main_text_14</item>
+    </style>
+</resources>
